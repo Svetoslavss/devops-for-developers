@@ -57,11 +57,10 @@
 
 
 1. ![Linux Shell](https://img.shields.io/badge/Linux-shell-4EAA25?logo=linux&logoColor=white)  **Linux Shell** 
-2. 
-- Automating workflows with **Docker** **Docker**
+2. ![Docker](https://img.shields.io/badge/Docker-container-2496ED?logo=docker&logoColor=white) **Docker** **Docker**
 3. ![Azure](https://img.shields.io/badge/Azure-cloud-0078D4?logo=microsoft-azure&logoColor=white) **Azure CLI**
-4. **Terraform**
-5. ![Grafana](https://img.shields.io/badge/Grafana-monitoring-FFCC00?logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-monitoring-1D90FF?logo=prometheus&logoColor=white)**Grafana & Prometheus**
+4. ![Terraform](https://img.shields.io/badge/Terraform-infrastructure%20as%20code-7B42B1?logo=terraform&logoColor=white) **Terraform**
+5. ![Grafana](https://img.shields.io/badge/Grafana-monitoring-FFCC00?logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-monitoring-1D90FF?logo=prometheus&logoColor=white) **Grafana & Prometheus**
    
 
 - **Linux Shell Scripts**: Automating system tasks using shell scripting.
