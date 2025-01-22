@@ -1,0 +1,6 @@
+C:\Users\admin\Desktop\Resources\TownsApplication\obj\Debug\net6.0\TownsApplication.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Resources\TownsApplication\obj\Debug\net6.0\TownsApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Resources\TownsApplication\obj\Debug\net6.0\TownsApplication.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Resources\TownsApplication\obj\Debug\net6.0\TownsApplication.AssemblyInfo.cs
+C:\Users\admin\Desktop\Resources\TownsApplication\obj\Debug\net6.0\TownsApplication.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Resources\TownsApplication\obj\Debug\net6.0\TownsApplication.sourcelink.json
