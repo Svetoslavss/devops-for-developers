@@ -1,4 +1,4 @@
-# Here I am goind to add all my Containers and Cloud task 
+# Here I am goind to add all my Containers and Cloud tasks.
 
 # Course Overview: Linux Shell, Docker, Cloud Computing, Azure, Infrastructure as Code (IaC) with Terraform, and Application Monitoring
 
